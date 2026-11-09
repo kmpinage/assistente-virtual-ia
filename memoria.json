@@ -1,0 +1,11 @@
+{
+  "usuario": {
+    "nome": "Senhor",
+    "sistema_operacional": "Windows 11",
+    "dispositivo": "Samsung Notebook (Intel i5 11ª Gen)",
+    "preferencias": "Respostas diretas, ágeis, inteligentes e com o tom de assistente JARVIS."
+  },
+  "fatos_lembrados": [
+    "O sistema de áudio e síntese de voz usa a voz neural Antonio via edge-tts com velocidade calibrada."
+  ]
+}
